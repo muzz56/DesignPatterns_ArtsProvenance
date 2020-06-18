@@ -14,7 +14,7 @@ Neraj Obla KumarBabu --	101275194<br>
 Software requirements:
 - npm/react
 - ganache/truffle
-- Metamask
+- Metamask (optional)
 
 ### Instructions to run the app
 
@@ -71,6 +71,12 @@ This smart contract is a token that allows users to securely buy into and bid on
 
 ---
 
+## Architecture 
+
+![](./notes/arch.jpeg)
+
+---
+
 ### Data
 
 | Name             | Type         | Structure                                     | Purpose                                                      |
@@ -100,6 +106,14 @@ This smart contract is a token that allows users to securely buy into and bid on
 ---
 
 ### Flowchart
+
+![](./notes/flow.jpeg)
+
+---
+
+#### State Diagram
+
+![](./notes/state.jpeg)
 
 ---
 
